@@ -1,0 +1,20 @@
+theme,corr_share,corr_raw,best_lag,raw_lag,direction,p,agree,corr_lag0
+Trump Assassination Attempt(s),0.674,0.652,0,0,same-day,0.0,yes,0.674
+"Middle East: Israel–Gaza, Iran & Region",0.384,0.223,1,12,Twitter leads,0.0,yes,0.338
+International Affairs — Russia & Ukraine Conflict,0.338,0.369,0,-1,same-day,0.0,NO,0.338
+Natural Disasters & FEMA Response,0.265,0.197,3,12,Twitter leads,0.0,yes,0.152
+Trump & Trump Family (core),0.245,0.257,11,0,Twitter leads,0.188,NO,-0.006
+"Gender, Women's Issues & Title IX",0.245,0.139,-2,-7,News leads,0.0,yes,0.037
+"Congress, Senate & Lawmakers",0.239,0.154,-13,5,News leads,0.19,NO,0.108
+"Teamsters, Unions & Labor",0.199,0.208,-12,-11,News leads,0.362,yes,0.127
+Immigration & Border,0.179,0.199,-7,3,News leads,0.089,NO,0.0
+"Military, Veterans & Foreign Wars (Afghanistan Withdrawal)",0.164,0.175,-9,-9,News leads,0.41,yes,-0.049
+"Healthcare, Vaccines & Public Health",0.145,0.284,3,5,Twitter leads,0.992,yes,0.008
+"2024 Election, Polls, Debates & Betting Markets",0.142,0.306,3,-9,Twitter leads,0.677,NO,0.067
+"Economy, Tax, Tariffs & Business",0.139,0.114,-1,5,News leads,0.938,NO,0.055
+"Race, Identity, DEI & Social Justice",0.133,0.184,9,0,Twitter leads,0.839,NO,0.126
+"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)",0.133,0.242,-14,10,News leads,0.761,NO,0.132
+Harris–Walz Campaign,0.125,0.276,-3,14,News leads,0.744,NO,0.067
+"Guns, Crime & Violence",0.12,0.24,13,-7,Twitter leads,1.0,NO,-0.012
+"Abortion, Reproductive Rights & IVF",0.088,0.081,11,5,Twitter leads,1.0,yes,-0.032
+Vance & GOP VP Ticket,0.052,0.323,-14,3,News leads,1.0,NO,-0.014
