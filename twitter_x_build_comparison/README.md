@@ -35,7 +35,7 @@
 - `topic_to_theme.csv` — мапа 1281 topic_id → 36 тем
 - `topic_gdelt_taxonomy_v2.csv` — які теми беремо в порівняння + GDELT-запити + чому решту відкинули
 - `build_twitter_daily.py` → `twitter_daily.csv` — щоденні лічильники розмов по темах
-- `gdelt_fetch.py` → `gdelt_daily_clean.csv` — щоденний обсяг новин по темах
+- `gdelt_fetch.py` → `gdelt_daily.csv` — щоденний обсяг новин по темах
 - `compare_series.py` → `lag_results.csv` — фінальні кореляції й лаги
 - `lag_results_100/200/500.csv` — перевірка на трьох порогах (для захисту)
 - `diagnose.py` — перевірка, що дати правильні
