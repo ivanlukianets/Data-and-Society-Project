@@ -1,0 +1,1282 @@
+topic_id,theme
+-1,Unclustered / General Political Chatter (BERTopic noise topic)
+0,"Middle East: Israel–Gaza, Iran & Region"
+1,Trump Assassination Attempt(s)
+2,International Affairs — Canada
+3,Trump & Trump Family (core)
+4,"Healthcare, Vaccines & Public Health"
+5,Trump & Trump Family (core)
+6,Trump & Trump Family (core)
+7,Trump & Trump Family (core)
+8,"2024 Election, Polls, Debates & Betting Markets"
+9,International Affairs — Russia & Ukraine Conflict
+10,State & Local Politics
+11,Other / Low-Signal Clusters (mixed or unclear content)
+12,Harris–Walz Campaign
+13,"2024 Election, Polls, Debates & Betting Markets"
+14,Biden Administration & Age/Cognitive Fitness
+15,Trump & Trump Family (core)
+17,"2024 Election, Polls, Debates & Betting Markets"
+18,"2024 Election, Polls, Debates & Betting Markets"
+19,"Media, Pundits, Journalists & Commentary"
+20,Trump & Trump Family (core)
+21,Trump & Trump Family (core)
+22,Trump & Trump Family (core)
+23,"2024 Election, Polls, Debates & Betting Markets"
+24,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+25,Biden Administration & Age/Cognitive Fitness
+26,Trump & Trump Family (core)
+27,"Teamsters, Unions & Labor"
+28,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+29,"Crypto, Bitcoin & DOGE"
+30,"2024 Election, Polls, Debates & Betting Markets"
+31,Trump & Trump Family (core)
+32,Harris–Walz Campaign
+33,Other / Low-Signal Clusters (mixed or unclear content)
+34,"2024 Election, Polls, Debates & Betting Markets"
+35,"Congress, Senate & Lawmakers"
+36,Trump & Trump Family (core)
+37,"International Affairs — Other (Asia, Europe, Global)"
+38,"Media, Pundits, Journalists & Commentary"
+39,Trump & Trump Family (core)
+40,Entertainment & Celebrities
+41,Trump & Trump Family (core)
+42,Trump & Trump Family (core)
+43,Biden Administration & Age/Cognitive Fitness
+44,Vance & GOP VP Ticket
+45,Biden Administration & Age/Cognitive Fitness
+46,"Congress, Senate & Lawmakers"
+47,Trump & Trump Family (core)
+48,Trump & Trump Family (core)
+49,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+50,"Media, Pundits, Journalists & Commentary"
+51,Trump & Trump Family (core)
+52,Trump & Trump Family (core)
+53,Trump & Trump Family (core)
+54,"Congress, Senate & Lawmakers"
+55,"Race, Identity, DEI & Social Justice"
+56,"Economy, Tax, Tariffs & Business"
+57,Biden Administration & Age/Cognitive Fitness
+58,Trump & Trump Family (core)
+59,Harris–Walz Campaign
+60,Trump & Trump Family (core)
+61,Trump & Trump Family (core)
+62,"Gender, Women's Issues & Title IX"
+63,Other / Low-Signal Clusters (mixed or unclear content)
+64,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+65,Harris–Walz Campaign
+66,Trump & Trump Family (core)
+67,"Media, Pundits, Journalists & Commentary"
+68,Trump & Trump Family (core)
+69,Trump & Trump Family (core)
+70,Sports
+71,Biden Administration & Age/Cognitive Fitness
+72,Trump & Trump Family (core)
+73,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+74,"Media, Pundits, Journalists & Commentary"
+75,"Tech, Social Media & Elon Musk"
+76,Trump & Trump Family (core)
+77,Trump & Trump Family (core)
+78,Trump & Trump Family (core)
+79,"Economy, Tax, Tariffs & Business"
+80,"Crypto, Bitcoin & DOGE"
+81,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+82,"Tech, Social Media & Elon Musk"
+83,"Media, Pundits, Journalists & Commentary"
+85,Trump & Trump Family (core)
+86,Trump & Trump Family (core)
+87,Trump & Trump Family (core)
+88,"Media, Pundits, Journalists & Commentary"
+89,Harris–Walz Campaign
+90,Trump & Trump Family (core)
+91,"Healthcare, Vaccines & Public Health"
+92,Trump & Trump Family (core)
+93,"2024 Election, Polls, Debates & Betting Markets"
+94,Biden Administration & Age/Cognitive Fitness
+95,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+96,"2024 Election, Polls, Debates & Betting Markets"
+97,Biden Administration & Age/Cognitive Fitness
+98,Trump & Trump Family (core)
+99,"Congress, Senate & Lawmakers"
+100,"2024 Election, Polls, Debates & Betting Markets"
+101,"International Affairs — UK, Ireland & Farage/Labour"
+102,"2024 Election, Polls, Debates & Betting Markets"
+103,Biden Administration & Age/Cognitive Fitness
+104,Biden Administration & Age/Cognitive Fitness
+105,Other / Low-Signal Clusters (mixed or unclear content)
+106,Trump & Trump Family (core)
+107,"Congress, Senate & Lawmakers"
+108,"Guns, Crime & Violence"
+109,Other / Low-Signal Clusters (mixed or unclear content)
+110,International Affairs — Russia & Ukraine Conflict
+111,State & Local Politics
+112,Trump & Trump Family (core)
+113,"Congress, Senate & Lawmakers"
+114,"2024 Election, Polls, Debates & Betting Markets"
+115,Trump & Trump Family (core)
+116,"Congress, Senate & Lawmakers"
+118,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+119,Religion & Faith
+120,"Media, Pundits, Journalists & Commentary"
+121,"Race, Identity, DEI & Social Justice"
+123,"Tech, Social Media & Elon Musk"
+124,Trump & Trump Family (core)
+125,Harris–Walz Campaign
+126,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+127,Harris–Walz Campaign
+128,"Congress, Senate & Lawmakers"
+129,Biden Administration & Age/Cognitive Fitness
+130,Trump & Trump Family (core)
+131,"2024 Election, Polls, Debates & Betting Markets"
+132,Trump & Trump Family (core)
+133,Biden Administration & Age/Cognitive Fitness
+134,Trump & Trump Family (core)
+135,Trump & Trump Family (core)
+136,"Congress, Senate & Lawmakers"
+137,Entertainment & Celebrities
+138,Trump & Trump Family (core)
+139,Trump & Trump Family (core)
+140,"Media, Pundits, Journalists & Commentary"
+141,Trump & Trump Family (core)
+142,Trump & Trump Family (core)
+143,Trump & Trump Family (core)
+144,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+145,Religion & Faith
+146,"2024 Election, Polls, Debates & Betting Markets"
+147,"Media, Pundits, Journalists & Commentary"
+148,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+149,Trump & Trump Family (core)
+150,Trump & Trump Family (core)
+151,Trump & Trump Family (core)
+152,Trump & Trump Family (core)
+153,Trump Assassination Attempt(s)
+154,"2024 Election, Polls, Debates & Betting Markets"
+155,Harris–Walz Campaign
+156,"Race, Identity, DEI & Social Justice"
+157,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+158,"Economy, Tax, Tariffs & Business"
+159,"2024 Election, Polls, Debates & Betting Markets"
+160,Trump & Trump Family (core)
+161,Trump & Trump Family (core)
+162,"Guns, Crime & Violence"
+163,Trump & Trump Family (core)
+164,Trump & Trump Family (core)
+165,Harris–Walz Campaign
+166,Trump & Trump Family (core)
+167,"Media, Pundits, Journalists & Commentary"
+168,Trump & Trump Family (core)
+169,"Media, Pundits, Journalists & Commentary"
+170,"Congress, Senate & Lawmakers"
+171,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+172,Biden Administration & Age/Cognitive Fitness
+173,"Race, Identity, DEI & Social Justice"
+174,"2024 Election, Polls, Debates & Betting Markets"
+175,"2024 Election, Polls, Debates & Betting Markets"
+176,"2024 Election, Polls, Debates & Betting Markets"
+177,Trump & Trump Family (core)
+178,Trump & Trump Family (core)
+179,Trump & Trump Family (core)
+180,"Media, Pundits, Journalists & Commentary"
+181,"Congress, Senate & Lawmakers"
+182,Biden Administration & Age/Cognitive Fitness
+183,Harris–Walz Campaign
+184,"Congress, Senate & Lawmakers"
+185,Immigration & Border
+186,Trump & Trump Family (core)
+187,Trump & Trump Family (core)
+188,Trump & Trump Family (core)
+189,Trump & Trump Family (core)
+190,"2024 Election, Polls, Debates & Betting Markets"
+191,"Congress, Senate & Lawmakers"
+192,Harris–Walz Campaign
+193,Trump & Trump Family (core)
+194,Religion & Faith
+195,International Affairs — Canada
+196,"2024 Election, Polls, Debates & Betting Markets"
+197,Trump & Trump Family (core)
+198,Other / Low-Signal Clusters (mixed or unclear content)
+199,"Abortion, Reproductive Rights & IVF"
+200,Trump & Trump Family (core)
+201,Trump & Trump Family (core)
+202,Biden Administration & Age/Cognitive Fitness
+203,"Middle East: Israel–Gaza, Iran & Region"
+204,Trump & Trump Family (core)
+205,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+206,Immigration & Border
+207,Trump & Trump Family (core)
+208,Other / Low-Signal Clusters (mixed or unclear content)
+209,Trump & Trump Family (core)
+210,Trump & Trump Family (core)
+211,"2024 Election, Polls, Debates & Betting Markets"
+212,Trump & Trump Family (core)
+213,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+214,Biden Administration & Age/Cognitive Fitness
+215,Trump & Trump Family (core)
+216,"Economy, Tax, Tariffs & Business"
+217,Trump Assassination Attempt(s)
+218,"Congress, Senate & Lawmakers"
+219,"Tech, Social Media & Elon Musk"
+220,Trump & Trump Family (core)
+221,Trump & Trump Family (core)
+222,"Congress, Senate & Lawmakers"
+223,"Congress, Senate & Lawmakers"
+224,Other / Low-Signal Clusters (mixed or unclear content)
+225,Trump & Trump Family (core)
+226,Casual / Everyday Chatter (non-political filler)
+227,International Affairs — Russia & Ukraine Conflict
+228,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+229,Other / Low-Signal Clusters (mixed or unclear content)
+230,"Congress, Senate & Lawmakers"
+231,"Media, Pundits, Journalists & Commentary"
+232,Vance & GOP VP Ticket
+233,Trump & Trump Family (core)
+234,"2024 Election, Polls, Debates & Betting Markets"
+235,International Affairs — Australia & NZ
+236,Trump & Trump Family (core)
+238,"2024 Election, Polls, Debates & Betting Markets"
+239,Trump & Trump Family (core)
+240,"International Affairs — Other (Asia, Europe, Global)"
+241,Trump & Trump Family (core)
+242,"Race, Identity, DEI & Social Justice"
+243,Biden Administration & Age/Cognitive Fitness
+244,Trump & Trump Family (core)
+245,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+246,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+247,Trump & Trump Family (core)
+248,Other / Low-Signal Clusters (mixed or unclear content)
+249,Trump & Trump Family (core)
+250,"2024 Election, Polls, Debates & Betting Markets"
+251,"Tech, Social Media & Elon Musk"
+252,Trump & Trump Family (core)
+253,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+254,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+255,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+256,"2024 Election, Polls, Debates & Betting Markets"
+257,Trump & Trump Family (core)
+258,Trump & Trump Family (core)
+259,"Middle East: Israel–Gaza, Iran & Region"
+260,Biden Administration & Age/Cognitive Fitness
+261,Trump & Trump Family (core)
+262,"International Affairs — Other (Asia, Europe, Global)"
+263,Trump Assassination Attempt(s)
+264,Trump & Trump Family (core)
+265,Trump & Trump Family (core)
+266,"2024 Election, Polls, Debates & Betting Markets"
+267,Trump & Trump Family (core)
+268,"Military, Veterans & Foreign Wars (Afghanistan Withdrawal)"
+269,"2024 Election, Polls, Debates & Betting Markets"
+270,Trump & Trump Family (core)
+271,Trump & Trump Family (core)
+272,Religion & Faith
+273,Biden Administration & Age/Cognitive Fitness
+274,Trump & Trump Family (core)
+275,Trump & Trump Family (core)
+276,"2024 Election, Polls, Debates & Betting Markets"
+277,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+278,Other / Low-Signal Clusters (mixed or unclear content)
+279,Vance & GOP VP Ticket
+280,"Media, Pundits, Journalists & Commentary"
+281,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+282,Trump & Trump Family (core)
+283,"2024 Election, Polls, Debates & Betting Markets"
+284,Sports
+285,Biden Administration & Age/Cognitive Fitness
+286,"Economy, Tax, Tariffs & Business"
+287,Trump & Trump Family (core)
+288,Trump & Trump Family (core)
+289,International Affairs — Russia & Ukraine Conflict
+290,Trump & Trump Family (core)
+291,Trump & Trump Family (core)
+292,Trump & Trump Family (core)
+293,"International Affairs — Other (Asia, Europe, Global)"
+294,Trump Assassination Attempt(s)
+295,Trump & Trump Family (core)
+296,Religion & Faith
+297,Trump & Trump Family (core)
+298,Biden Administration & Age/Cognitive Fitness
+299,Trump & Trump Family (core)
+300,Entertainment & Celebrities
+301,Trump & Trump Family (core)
+302,Trump & Trump Family (core)
+303,"2024 Election, Polls, Debates & Betting Markets"
+304,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+305,"Congress, Senate & Lawmakers"
+306,Trump & Trump Family (core)
+307,"2024 Election, Polls, Debates & Betting Markets"
+308,"2024 Election, Polls, Debates & Betting Markets"
+309,Biden Administration & Age/Cognitive Fitness
+310,Trump & Trump Family (core)
+311,"2024 Election, Polls, Debates & Betting Markets"
+312,Trump & Trump Family (core)
+313,Trump & Trump Family (core)
+314,Trump & Trump Family (core)
+315,Other / Low-Signal Clusters (mixed or unclear content)
+316,Trump & Trump Family (core)
+317,Trump & Trump Family (core)
+318,"Congress, Senate & Lawmakers"
+319,"Media, Pundits, Journalists & Commentary"
+320,Trump & Trump Family (core)
+321,"2024 Election, Polls, Debates & Betting Markets"
+322,Trump Assassination Attempt(s)
+323,Other / Low-Signal Clusters (mixed or unclear content)
+324,Trump & Trump Family (core)
+325,Trump & Trump Family (core)
+326,Trump & Trump Family (core)
+327,Trump & Trump Family (core)
+328,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+329,Other / Low-Signal Clusters (mixed or unclear content)
+330,Trump & Trump Family (core)
+331,Other / Low-Signal Clusters (mixed or unclear content)
+332,Entertainment & Celebrities
+333,Trump & Trump Family (core)
+334,Trump & Trump Family (core)
+335,Biden Administration & Age/Cognitive Fitness
+336,Harris–Walz Campaign
+337,"Media, Pundits, Journalists & Commentary"
+338,Biden Administration & Age/Cognitive Fitness
+339,Biden Administration & Age/Cognitive Fitness
+340,Trump & Trump Family (core)
+341,Trump & Trump Family (core)
+342,Trump & Trump Family (core)
+343,Trump & Trump Family (core)
+344,Trump & Trump Family (core)
+345,Trump & Trump Family (core)
+346,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+347,"Congress, Senate & Lawmakers"
+348,"2024 Election, Polls, Debates & Betting Markets"
+349,Other / Low-Signal Clusters (mixed or unclear content)
+350,Harris–Walz Campaign
+351,Trump & Trump Family (core)
+352,Trump & Trump Family (core)
+353,Other / Low-Signal Clusters (mixed or unclear content)
+354,Trump & Trump Family (core)
+355,Vance & GOP VP Ticket
+356,"Congress, Senate & Lawmakers"
+357,"Congress, Senate & Lawmakers"
+358,"Media, Pundits, Journalists & Commentary"
+359,Trump & Trump Family (core)
+360,Trump & Trump Family (core)
+361,Trump & Trump Family (core)
+362,Other / Low-Signal Clusters (mixed or unclear content)
+363,"Gender, Women's Issues & Title IX"
+364,"2024 Election, Polls, Debates & Betting Markets"
+365,"Congress, Senate & Lawmakers"
+366,"Congress, Senate & Lawmakers"
+367,Sports
+368,International Affairs — Australia & NZ
+369,"Media, Pundits, Journalists & Commentary"
+370,Trump & Trump Family (core)
+371,Trump & Trump Family (core)
+372,"Gender, Women's Issues & Title IX"
+373,"Media, Pundits, Journalists & Commentary"
+374,Trump & Trump Family (core)
+375,"2024 Election, Polls, Debates & Betting Markets"
+376,Other / Low-Signal Clusters (mixed or unclear content)
+377,Trump & Trump Family (core)
+378,Other / Low-Signal Clusters (mixed or unclear content)
+379,Entertainment & Celebrities
+380,Trump & Trump Family (core)
+381,Trump & Trump Family (core)
+382,Trump & Trump Family (core)
+383,Other / Low-Signal Clusters (mixed or unclear content)
+384,Trump & Trump Family (core)
+385,Casual / Everyday Chatter (non-political filler)
+386,"2024 Election, Polls, Debates & Betting Markets"
+387,Trump & Trump Family (core)
+388,"Congress, Senate & Lawmakers"
+389,Other / Low-Signal Clusters (mixed or unclear content)
+390,Trump & Trump Family (core)
+391,Biden Administration & Age/Cognitive Fitness
+392,Other / Low-Signal Clusters (mixed or unclear content)
+393,"Congress, Senate & Lawmakers"
+394,Trump & Trump Family (core)
+395,"Media, Pundits, Journalists & Commentary"
+396,Other / Low-Signal Clusters (mixed or unclear content)
+397,Biden Administration & Age/Cognitive Fitness
+398,Trump & Trump Family (core)
+399,Other / Low-Signal Clusters (mixed or unclear content)
+400,"2024 Election, Polls, Debates & Betting Markets"
+401,"2024 Election, Polls, Debates & Betting Markets"
+402,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+403,Trump & Trump Family (core)
+404,International Affairs — Russia & Ukraine Conflict
+405,Natural Disasters & FEMA Response
+406,"Media, Pundits, Journalists & Commentary"
+407,Sports
+408,"2024 Election, Polls, Debates & Betting Markets"
+409,Trump & Trump Family (core)
+410,"Economy, Tax, Tariffs & Business"
+411,"Economy, Tax, Tariffs & Business"
+412,"2024 Election, Polls, Debates & Betting Markets"
+413,Other / Low-Signal Clusters (mixed or unclear content)
+414,"2024 Election, Polls, Debates & Betting Markets"
+415,Trump & Trump Family (core)
+416,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+417,Trump & Trump Family (core)
+418,"2024 Election, Polls, Debates & Betting Markets"
+419,Trump & Trump Family (core)
+420,Other / Low-Signal Clusters (mixed or unclear content)
+421,"2024 Election, Polls, Debates & Betting Markets"
+422,Trump & Trump Family (core)
+423,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+424,Sports
+425,"Media, Pundits, Journalists & Commentary"
+426,Trump & Trump Family (core)
+427,"Congress, Senate & Lawmakers"
+428,International Affairs — Canada
+429,"2024 Election, Polls, Debates & Betting Markets"
+430,Biden Administration & Age/Cognitive Fitness
+431,International Affairs — Russia & Ukraine Conflict
+432,Trump Assassination Attempt(s)
+433,Trump & Trump Family (core)
+434,"2024 Election, Polls, Debates & Betting Markets"
+435,Trump & Trump Family (core)
+436,Other / Low-Signal Clusters (mixed or unclear content)
+437,"2024 Election, Polls, Debates & Betting Markets"
+438,Biden Administration & Age/Cognitive Fitness
+439,Trump & Trump Family (core)
+440,Trump & Trump Family (core)
+441,Other / Low-Signal Clusters (mixed or unclear content)
+442,"Economy, Tax, Tariffs & Business"
+443,"Crypto, Bitcoin & DOGE"
+444,International Affairs — Russia & Ukraine Conflict
+445,"Congress, Senate & Lawmakers"
+446,"International Affairs — UK, Ireland & Farage/Labour"
+447,"Tech, Social Media & Elon Musk"
+448,Trump & Trump Family (core)
+449,Other / Low-Signal Clusters (mixed or unclear content)
+451,Other / Low-Signal Clusters (mixed or unclear content)
+452,Trump & Trump Family (core)
+453,"Race, Identity, DEI & Social Justice"
+454,Religion & Faith
+455,"2024 Election, Polls, Debates & Betting Markets"
+456,"Congress, Senate & Lawmakers"
+457,Trump & Trump Family (core)
+458,"2024 Election, Polls, Debates & Betting Markets"
+459,Biden Administration & Age/Cognitive Fitness
+460,Trump & Trump Family (core)
+461,Trump & Trump Family (core)
+462,Trump & Trump Family (core)
+463,Trump & Trump Family (core)
+464,Trump & Trump Family (core)
+465,"Economy, Tax, Tariffs & Business"
+466,Other / Low-Signal Clusters (mixed or unclear content)
+467,Trump & Trump Family (core)
+468,Other / Low-Signal Clusters (mixed or unclear content)
+469,Biden Administration & Age/Cognitive Fitness
+470,"2024 Election, Polls, Debates & Betting Markets"
+471,Trump & Trump Family (core)
+472,Other / Low-Signal Clusters (mixed or unclear content)
+473,"2024 Election, Polls, Debates & Betting Markets"
+474,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+475,Biden Administration & Age/Cognitive Fitness
+476,Biden Administration & Age/Cognitive Fitness
+477,Other / Low-Signal Clusters (mixed or unclear content)
+478,"Media, Pundits, Journalists & Commentary"
+479,Trump & Trump Family (core)
+480,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+481,Other / Low-Signal Clusters (mixed or unclear content)
+482,Trump & Trump Family (core)
+483,"Congress, Senate & Lawmakers"
+484,Trump & Trump Family (core)
+485,Harris–Walz Campaign
+486,Other / Low-Signal Clusters (mixed or unclear content)
+487,Trump & Trump Family (core)
+488,"2024 Election, Polls, Debates & Betting Markets"
+489,Other / Low-Signal Clusters (mixed or unclear content)
+490,Trump & Trump Family (core)
+491,Trump & Trump Family (core)
+492,"Race, Identity, DEI & Social Justice"
+493,"International Affairs — UK, Ireland & Farage/Labour"
+494,"Congress, Senate & Lawmakers"
+495,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+496,Trump & Trump Family (core)
+497,"Congress, Senate & Lawmakers"
+498,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+499,Trump & Trump Family (core)
+500,Trump & Trump Family (core)
+501,International Affairs — Russia & Ukraine Conflict
+502,Trump & Trump Family (core)
+503,Trump & Trump Family (core)
+504,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+505,"International Affairs — UK, Ireland & Farage/Labour"
+506,Trump & Trump Family (core)
+507,"Media, Pundits, Journalists & Commentary"
+508,"2024 Election, Polls, Debates & Betting Markets"
+509,Other / Low-Signal Clusters (mixed or unclear content)
+510,"2024 Election, Polls, Debates & Betting Markets"
+511,"Media, Pundits, Journalists & Commentary"
+512,"2024 Election, Polls, Debates & Betting Markets"
+513,"Congress, Senate & Lawmakers"
+514,Trump & Trump Family (core)
+515,"2024 Election, Polls, Debates & Betting Markets"
+516,"2024 Election, Polls, Debates & Betting Markets"
+517,Trump & Trump Family (core)
+518,International Affairs — Russia & Ukraine Conflict
+519,"Economy, Tax, Tariffs & Business"
+520,"Media, Pundits, Journalists & Commentary"
+521,"Media, Pundits, Journalists & Commentary"
+522,Biden Administration & Age/Cognitive Fitness
+523,Other / Low-Signal Clusters (mixed or unclear content)
+524,State & Local Politics
+525,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+526,Other / Low-Signal Clusters (mixed or unclear content)
+527,International Affairs — Russia & Ukraine Conflict
+528,Other / Low-Signal Clusters (mixed or unclear content)
+529,"Congress, Senate & Lawmakers"
+530,Other / Low-Signal Clusters (mixed or unclear content)
+531,"International Affairs — UK, Ireland & Farage/Labour"
+532,Biden Administration & Age/Cognitive Fitness
+533,"International Affairs — UK, Ireland & Farage/Labour"
+534,Trump & Trump Family (core)
+535,"Congress, Senate & Lawmakers"
+536,Other / Low-Signal Clusters (mixed or unclear content)
+537,"Media, Pundits, Journalists & Commentary"
+538,"International Affairs — UK, Ireland & Farage/Labour"
+539,Biden Administration & Age/Cognitive Fitness
+540,"Crypto, Bitcoin & DOGE"
+541,"Crypto, Bitcoin & DOGE"
+542,Trump & Trump Family (core)
+543,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+544,"2024 Election, Polls, Debates & Betting Markets"
+545,"Media, Pundits, Journalists & Commentary"
+546,Trump & Trump Family (core)
+548,"Middle East: Israel–Gaza, Iran & Region"
+549,Harris–Walz Campaign
+550,Biden Administration & Age/Cognitive Fitness
+551,"Media, Pundits, Journalists & Commentary"
+552,Other / Low-Signal Clusters (mixed or unclear content)
+553,International Affairs — Russia & Ukraine Conflict
+554,Other / Low-Signal Clusters (mixed or unclear content)
+555,Trump & Trump Family (core)
+556,Trump & Trump Family (core)
+557,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+558,Other / Low-Signal Clusters (mixed or unclear content)
+559,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+560,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+561,Harris–Walz Campaign
+562,Other / Low-Signal Clusters (mixed or unclear content)
+563,"2024 Election, Polls, Debates & Betting Markets"
+564,Other / Low-Signal Clusters (mixed or unclear content)
+565,Other / Low-Signal Clusters (mixed or unclear content)
+566,Trump & Trump Family (core)
+567,Trump & Trump Family (core)
+568,Religion & Faith
+569,Other / Low-Signal Clusters (mixed or unclear content)
+571,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+572,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+573,Trump & Trump Family (core)
+574,Biden Administration & Age/Cognitive Fitness
+575,"Crypto, Bitcoin & DOGE"
+576,Trump & Trump Family (core)
+577,Trump & Trump Family (core)
+578,"2024 Election, Polls, Debates & Betting Markets"
+579,Trump & Trump Family (core)
+580,"Abortion, Reproductive Rights & IVF"
+581,"2024 Election, Polls, Debates & Betting Markets"
+582,"Middle East: Israel–Gaza, Iran & Region"
+583,Other / Low-Signal Clusters (mixed or unclear content)
+584,Other / Low-Signal Clusters (mixed or unclear content)
+585,Other / Low-Signal Clusters (mixed or unclear content)
+586,Trump & Trump Family (core)
+587,Sports
+588,Trump & Trump Family (core)
+589,"2024 Election, Polls, Debates & Betting Markets"
+590,Other / Low-Signal Clusters (mixed or unclear content)
+591,Trump & Trump Family (core)
+592,"Middle East: Israel–Gaza, Iran & Region"
+593,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+594,Trump & Trump Family (core)
+595,Other / Low-Signal Clusters (mixed or unclear content)
+596,Biden Administration & Age/Cognitive Fitness
+597,Sports
+598,"Media, Pundits, Journalists & Commentary"
+599,Trump & Trump Family (core)
+600,Other / Low-Signal Clusters (mixed or unclear content)
+601,Trump & Trump Family (core)
+602,"Crypto, Bitcoin & DOGE"
+603,Trump & Trump Family (core)
+604,Harris–Walz Campaign
+605,Trump & Trump Family (core)
+606,"2024 Election, Polls, Debates & Betting Markets"
+607,Other / Low-Signal Clusters (mixed or unclear content)
+608,Other / Low-Signal Clusters (mixed or unclear content)
+609,"Congress, Senate & Lawmakers"
+610,Other / Low-Signal Clusters (mixed or unclear content)
+611,"Middle East: Israel–Gaza, Iran & Region"
+612,Trump & Trump Family (core)
+613,"2024 Election, Polls, Debates & Betting Markets"
+614,Trump & Trump Family (core)
+615,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+616,Other / Low-Signal Clusters (mixed or unclear content)
+617,"2024 Election, Polls, Debates & Betting Markets"
+618,"Congress, Senate & Lawmakers"
+619,Trump & Trump Family (core)
+620,Trump & Trump Family (core)
+621,Trump & Trump Family (core)
+622,Vance & GOP VP Ticket
+623,"Congress, Senate & Lawmakers"
+624,International Affairs — Russia & Ukraine Conflict
+625,"Media, Pundits, Journalists & Commentary"
+626,"2024 Election, Polls, Debates & Betting Markets"
+627,Biden Administration & Age/Cognitive Fitness
+628,Trump & Trump Family (core)
+629,"2024 Election, Polls, Debates & Betting Markets"
+630,Harris–Walz Campaign
+631,Biden Administration & Age/Cognitive Fitness
+632,Other / Low-Signal Clusters (mixed or unclear content)
+633,Harris–Walz Campaign
+634,"Congress, Senate & Lawmakers"
+635,Trump & Trump Family (core)
+636,"2024 Election, Polls, Debates & Betting Markets"
+637,Trump & Trump Family (core)
+638,"2024 Election, Polls, Debates & Betting Markets"
+639,Other / Low-Signal Clusters (mixed or unclear content)
+640,International Affairs — Russia & Ukraine Conflict
+641,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+642,"Tech, Social Media & Elon Musk"
+643,"2024 Election, Polls, Debates & Betting Markets"
+644,"Media, Pundits, Journalists & Commentary"
+645,"Congress, Senate & Lawmakers"
+646,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+647,Other / Low-Signal Clusters (mixed or unclear content)
+648,Trump & Trump Family (core)
+649,Trump & Trump Family (core)
+651,Trump Assassination Attempt(s)
+652,Trump & Trump Family (core)
+653,Other / Low-Signal Clusters (mixed or unclear content)
+654,Religion & Faith
+655,Immigration & Border
+656,Vance & GOP VP Ticket
+657,"2024 Election, Polls, Debates & Betting Markets"
+658,Trump & Trump Family (core)
+659,"Congress, Senate & Lawmakers"
+660,Trump & Trump Family (core)
+661,"Media, Pundits, Journalists & Commentary"
+662,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+663,Harris–Walz Campaign
+664,"2024 Election, Polls, Debates & Betting Markets"
+665,Other / Low-Signal Clusters (mixed or unclear content)
+666,"2024 Election, Polls, Debates & Betting Markets"
+667,Trump & Trump Family (core)
+668,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+669,Trump & Trump Family (core)
+670,Other / Low-Signal Clusters (mixed or unclear content)
+671,"2024 Election, Polls, Debates & Betting Markets"
+672,"2024 Election, Polls, Debates & Betting Markets"
+673,Other / Low-Signal Clusters (mixed or unclear content)
+674,Trump & Trump Family (core)
+675,Trump & Trump Family (core)
+676,"2024 Election, Polls, Debates & Betting Markets"
+677,International Affairs — Russia & Ukraine Conflict
+678,"2024 Election, Polls, Debates & Betting Markets"
+679,Other / Low-Signal Clusters (mixed or unclear content)
+680,Trump & Trump Family (core)
+681,Trump & Trump Family (core)
+682,Trump & Trump Family (core)
+683,Trump & Trump Family (core)
+684,Harris–Walz Campaign
+685,"2024 Election, Polls, Debates & Betting Markets"
+686,Other / Low-Signal Clusters (mixed or unclear content)
+687,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+688,Biden Administration & Age/Cognitive Fitness
+689,International Affairs — Australia & NZ
+690,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+691,Trump & Trump Family (core)
+692,Trump & Trump Family (core)
+693,"International Affairs — Other (Asia, Europe, Global)"
+694,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+695,"2024 Election, Polls, Debates & Betting Markets"
+696,International Affairs — Russia & Ukraine Conflict
+697,"Race, Identity, DEI & Social Justice"
+698,Harris–Walz Campaign
+700,"Congress, Senate & Lawmakers"
+701,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+702,"Media, Pundits, Journalists & Commentary"
+703,Entertainment & Celebrities
+704,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+705,Trump & Trump Family (core)
+706,Sports
+707,Trump & Trump Family (core)
+708,Trump & Trump Family (core)
+709,Trump & Trump Family (core)
+710,"Middle East: Israel–Gaza, Iran & Region"
+711,Trump & Trump Family (core)
+712,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+713,International Affairs — Russia & Ukraine Conflict
+714,Other / Low-Signal Clusters (mixed or unclear content)
+715,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+716,Other / Low-Signal Clusters (mixed or unclear content)
+717,Other / Low-Signal Clusters (mixed or unclear content)
+718,Immigration & Border
+719,Biden Administration & Age/Cognitive Fitness
+720,Harris–Walz Campaign
+721,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+722,Biden Administration & Age/Cognitive Fitness
+723,"2024 Election, Polls, Debates & Betting Markets"
+724,Other / Low-Signal Clusters (mixed or unclear content)
+725,"Media, Pundits, Journalists & Commentary"
+726,Trump & Trump Family (core)
+727,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+728,Other / Low-Signal Clusters (mixed or unclear content)
+729,"Crypto, Bitcoin & DOGE"
+730,"Middle East: Israel–Gaza, Iran & Region"
+731,"Economy, Tax, Tariffs & Business"
+732,Other / Low-Signal Clusters (mixed or unclear content)
+733,Trump & Trump Family (core)
+734,Trump & Trump Family (core)
+735,Other / Low-Signal Clusters (mixed or unclear content)
+736,"Tech, Social Media & Elon Musk"
+737,"Congress, Senate & Lawmakers"
+738,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+739,"2024 Election, Polls, Debates & Betting Markets"
+740,"Race, Identity, DEI & Social Justice"
+741,"Media, Pundits, Journalists & Commentary"
+742,"2024 Election, Polls, Debates & Betting Markets"
+743,Trump & Trump Family (core)
+744,"International Affairs — UK, Ireland & Farage/Labour"
+745,"2024 Election, Polls, Debates & Betting Markets"
+746,"Military, Veterans & Foreign Wars (Afghanistan Withdrawal)"
+747,"Media, Pundits, Journalists & Commentary"
+748,Trump & Trump Family (core)
+749,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+750,Religion & Faith
+752,Trump & Trump Family (core)
+753,"2024 Election, Polls, Debates & Betting Markets"
+754,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+755,Other / Low-Signal Clusters (mixed or unclear content)
+756,"Media, Pundits, Journalists & Commentary"
+757,"Media, Pundits, Journalists & Commentary"
+758,Biden Administration & Age/Cognitive Fitness
+759,International Affairs — Russia & Ukraine Conflict
+760,Other / Low-Signal Clusters (mixed or unclear content)
+761,Trump & Trump Family (core)
+762,"Race, Identity, DEI & Social Justice"
+763,Entertainment & Celebrities
+764,Other / Low-Signal Clusters (mixed or unclear content)
+765,"2024 Election, Polls, Debates & Betting Markets"
+766,Other / Low-Signal Clusters (mixed or unclear content)
+767,"2024 Election, Polls, Debates & Betting Markets"
+768,Trump & Trump Family (core)
+769,Harris–Walz Campaign
+770,Other / Low-Signal Clusters (mixed or unclear content)
+771,Harris–Walz Campaign
+772,"Guns, Crime & Violence"
+773,"Congress, Senate & Lawmakers"
+774,"2024 Election, Polls, Debates & Betting Markets"
+775,Trump & Trump Family (core)
+776,"Crypto, Bitcoin & DOGE"
+777,"Middle East: Israel–Gaza, Iran & Region"
+779,Trump & Trump Family (core)
+780,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+781,Other / Low-Signal Clusters (mixed or unclear content)
+782,"Media, Pundits, Journalists & Commentary"
+783,Trump & Trump Family (core)
+784,International Affairs — Russia & Ukraine Conflict
+785,Other / Low-Signal Clusters (mixed or unclear content)
+786,"Congress, Senate & Lawmakers"
+787,"2024 Election, Polls, Debates & Betting Markets"
+788,Trump & Trump Family (core)
+789,"2024 Election, Polls, Debates & Betting Markets"
+790,"2024 Election, Polls, Debates & Betting Markets"
+791,Trump & Trump Family (core)
+792,International Affairs — Russia & Ukraine Conflict
+793,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+794,International Affairs — Russia & Ukraine Conflict
+795,Other / Low-Signal Clusters (mixed or unclear content)
+796,International Affairs — Russia & Ukraine Conflict
+797,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+798,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+799,Trump & Trump Family (core)
+800,Other / Low-Signal Clusters (mixed or unclear content)
+801,"International Affairs — Other (Asia, Europe, Global)"
+802,Trump & Trump Family (core)
+803,"Media, Pundits, Journalists & Commentary"
+804,"Congress, Senate & Lawmakers"
+805,Biden Administration & Age/Cognitive Fitness
+806,"International Affairs — UK, Ireland & Farage/Labour"
+807,Other / Low-Signal Clusters (mixed or unclear content)
+808,"Middle East: Israel–Gaza, Iran & Region"
+809,Harris–Walz Campaign
+810,Trump & Trump Family (core)
+811,"2024 Election, Polls, Debates & Betting Markets"
+812,"Congress, Senate & Lawmakers"
+813,Other / Low-Signal Clusters (mixed or unclear content)
+814,Other / Low-Signal Clusters (mixed or unclear content)
+815,"2024 Election, Polls, Debates & Betting Markets"
+816,"Congress, Senate & Lawmakers"
+817,Trump & Trump Family (core)
+818,Religion & Faith
+819,International Affairs — Canada
+820,"Guns, Crime & Violence"
+821,"Media, Pundits, Journalists & Commentary"
+822,Trump & Trump Family (core)
+823,Trump & Trump Family (core)
+824,Other / Low-Signal Clusters (mixed or unclear content)
+825,"Middle East: Israel–Gaza, Iran & Region"
+826,"International Affairs — UK, Ireland & Farage/Labour"
+827,Trump & Trump Family (core)
+828,"2024 Election, Polls, Debates & Betting Markets"
+829,Other / Low-Signal Clusters (mixed or unclear content)
+830,Trump & Trump Family (core)
+831,"Media, Pundits, Journalists & Commentary"
+832,Trump & Trump Family (core)
+833,Trump & Trump Family (core)
+834,Immigration & Border
+835,"Media, Pundits, Journalists & Commentary"
+836,Other / Low-Signal Clusters (mixed or unclear content)
+837,"2024 Election, Polls, Debates & Betting Markets"
+838,Harris–Walz Campaign
+839,Trump & Trump Family (core)
+840,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+841,"Media, Pundits, Journalists & Commentary"
+842,Trump & Trump Family (core)
+843,Other / Low-Signal Clusters (mixed or unclear content)
+844,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+845,"International Affairs — UK, Ireland & Farage/Labour"
+846,Trump & Trump Family (core)
+847,"2024 Election, Polls, Debates & Betting Markets"
+848,Sports
+849,"2024 Election, Polls, Debates & Betting Markets"
+850,Trump Assassination Attempt(s)
+851,International Affairs — Russia & Ukraine Conflict
+852,Trump & Trump Family (core)
+853,Other / Low-Signal Clusters (mixed or unclear content)
+854,Other / Low-Signal Clusters (mixed or unclear content)
+855,Other / Low-Signal Clusters (mixed or unclear content)
+856,Trump & Trump Family (core)
+857,Vance & GOP VP Ticket
+858,"Crypto, Bitcoin & DOGE"
+859,"Congress, Senate & Lawmakers"
+860,Trump & Trump Family (core)
+861,International Affairs — Canada
+862,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+863,"2024 Election, Polls, Debates & Betting Markets"
+864,International Affairs — Russia & Ukraine Conflict
+865,"Race, Identity, DEI & Social Justice"
+866,"Media, Pundits, Journalists & Commentary"
+867,Trump & Trump Family (core)
+868,"2024 Election, Polls, Debates & Betting Markets"
+869,"Healthcare, Vaccines & Public Health"
+870,Trump Assassination Attempt(s)
+871,"2024 Election, Polls, Debates & Betting Markets"
+872,Biden Administration & Age/Cognitive Fitness
+873,"2024 Election, Polls, Debates & Betting Markets"
+874,Other / Low-Signal Clusters (mixed or unclear content)
+875,"Media, Pundits, Journalists & Commentary"
+876,"2024 Election, Polls, Debates & Betting Markets"
+877,Harris–Walz Campaign
+878,Trump & Trump Family (core)
+879,International Affairs — Canada
+880,"2024 Election, Polls, Debates & Betting Markets"
+881,Other / Low-Signal Clusters (mixed or unclear content)
+882,Biden Administration & Age/Cognitive Fitness
+883,Other / Low-Signal Clusters (mixed or unclear content)
+884,"Tech, Social Media & Elon Musk"
+885,Trump & Trump Family (core)
+886,Other / Low-Signal Clusters (mixed or unclear content)
+887,"Media, Pundits, Journalists & Commentary"
+888,Other / Low-Signal Clusters (mixed or unclear content)
+889,Trump & Trump Family (core)
+890,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+891,Other / Low-Signal Clusters (mixed or unclear content)
+892,Other / Low-Signal Clusters (mixed or unclear content)
+893,"2024 Election, Polls, Debates & Betting Markets"
+894,Biden Administration & Age/Cognitive Fitness
+895,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+896,Other / Low-Signal Clusters (mixed or unclear content)
+897,Harris–Walz Campaign
+898,Harris–Walz Campaign
+899,Other / Low-Signal Clusters (mixed or unclear content)
+900,"Congress, Senate & Lawmakers"
+901,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+902,Trump & Trump Family (core)
+903,Other / Low-Signal Clusters (mixed or unclear content)
+904,Trump & Trump Family (core)
+905,Immigration & Border
+906,"Race, Identity, DEI & Social Justice"
+907,"Media, Pundits, Journalists & Commentary"
+908,"Economy, Tax, Tariffs & Business"
+909,Entertainment & Celebrities
+910,Other / Low-Signal Clusters (mixed or unclear content)
+911,Other / Low-Signal Clusters (mixed or unclear content)
+912,Harris–Walz Campaign
+913,"Congress, Senate & Lawmakers"
+914,"2024 Election, Polls, Debates & Betting Markets"
+915,"Congress, Senate & Lawmakers"
+916,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+917,Harris–Walz Campaign
+918,Trump & Trump Family (core)
+919,Other / Low-Signal Clusters (mixed or unclear content)
+920,Trump & Trump Family (core)
+921,"Crypto, Bitcoin & DOGE"
+922,"Congress, Senate & Lawmakers"
+923,Harris–Walz Campaign
+924,"2024 Election, Polls, Debates & Betting Markets"
+925,Other / Low-Signal Clusters (mixed or unclear content)
+926,International Affairs — Russia & Ukraine Conflict
+927,"2024 Election, Polls, Debates & Betting Markets"
+928,"2024 Election, Polls, Debates & Betting Markets"
+929,Trump & Trump Family (core)
+930,Trump & Trump Family (core)
+931,Other / Low-Signal Clusters (mixed or unclear content)
+933,"Race, Identity, DEI & Social Justice"
+934,Trump & Trump Family (core)
+935,International Affairs — Russia & Ukraine Conflict
+936,International Affairs — Russia & Ukraine Conflict
+937,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+938,Trump & Trump Family (core)
+939,Trump & Trump Family (core)
+940,"Congress, Senate & Lawmakers"
+941,"Media, Pundits, Journalists & Commentary"
+942,International Affairs — Russia & Ukraine Conflict
+943,Trump & Trump Family (core)
+944,Biden Administration & Age/Cognitive Fitness
+945,"Media, Pundits, Journalists & Commentary"
+946,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+947,"2024 Election, Polls, Debates & Betting Markets"
+948,"Media, Pundits, Journalists & Commentary"
+949,Trump & Trump Family (core)
+950,"Media, Pundits, Journalists & Commentary"
+951,Other / Low-Signal Clusters (mixed or unclear content)
+952,"Crypto, Bitcoin & DOGE"
+953,"Economy, Tax, Tariffs & Business"
+954,"2024 Election, Polls, Debates & Betting Markets"
+955,Trump & Trump Family (core)
+956,"International Affairs — UK, Ireland & Farage/Labour"
+957,"2024 Election, Polls, Debates & Betting Markets"
+958,"Crypto, Bitcoin & DOGE"
+959,Other / Low-Signal Clusters (mixed or unclear content)
+960,Other / Low-Signal Clusters (mixed or unclear content)
+961,Trump & Trump Family (core)
+962,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+963,"2024 Election, Polls, Debates & Betting Markets"
+964,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+965,"2024 Election, Polls, Debates & Betting Markets"
+966,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+967,"Crypto, Bitcoin & DOGE"
+968,International Affairs — Russia & Ukraine Conflict
+969,"Economy, Tax, Tariffs & Business"
+970,Trump & Trump Family (core)
+972,Harris–Walz Campaign
+973,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+974,Trump & Trump Family (core)
+975,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+976,Other / Low-Signal Clusters (mixed or unclear content)
+977,"2024 Election, Polls, Debates & Betting Markets"
+978,International Affairs — Russia & Ukraine Conflict
+979,Trump & Trump Family (core)
+980,Other / Low-Signal Clusters (mixed or unclear content)
+981,"International Affairs — UK, Ireland & Farage/Labour"
+982,International Affairs — Russia & Ukraine Conflict
+983,Harris–Walz Campaign
+984,Trump & Trump Family (core)
+985,"Congress, Senate & Lawmakers"
+986,Trump & Trump Family (core)
+987,"Congress, Senate & Lawmakers"
+988,Harris–Walz Campaign
+989,"Crypto, Bitcoin & DOGE"
+990,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+991,Other / Low-Signal Clusters (mixed or unclear content)
+992,"2024 Election, Polls, Debates & Betting Markets"
+993,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+994,Other / Low-Signal Clusters (mixed or unclear content)
+995,Trump & Trump Family (core)
+996,"2024 Election, Polls, Debates & Betting Markets"
+998,Trump & Trump Family (core)
+999,"International Affairs — Other (Asia, Europe, Global)"
+1000,Other / Low-Signal Clusters (mixed or unclear content)
+1001,Entertainment & Celebrities
+1002,Trump & Trump Family (core)
+1003,"Economy, Tax, Tariffs & Business"
+1004,"2024 Election, Polls, Debates & Betting Markets"
+1005,"Crypto, Bitcoin & DOGE"
+1006,"Media, Pundits, Journalists & Commentary"
+1007,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+1008,"Media, Pundits, Journalists & Commentary"
+1009,"2024 Election, Polls, Debates & Betting Markets"
+1010,Other / Low-Signal Clusters (mixed or unclear content)
+1011,Natural Disasters & FEMA Response
+1012,Entertainment & Celebrities
+1013,"2024 Election, Polls, Debates & Betting Markets"
+1014,Harris–Walz Campaign
+1015,"2024 Election, Polls, Debates & Betting Markets"
+1016,"Middle East: Israel–Gaza, Iran & Region"
+1017,"International Affairs — UK, Ireland & Farage/Labour"
+1018,"Media, Pundits, Journalists & Commentary"
+1019,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1020,Other / Low-Signal Clusters (mixed or unclear content)
+1021,"2024 Election, Polls, Debates & Betting Markets"
+1022,"International Affairs — UK, Ireland & Farage/Labour"
+1023,Other / Low-Signal Clusters (mixed or unclear content)
+1024,Other / Low-Signal Clusters (mixed or unclear content)
+1025,Trump & Trump Family (core)
+1026,"Media, Pundits, Journalists & Commentary"
+1027,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1028,"Middle East: Israel–Gaza, Iran & Region"
+1029,"Crypto, Bitcoin & DOGE"
+1030,Biden Administration & Age/Cognitive Fitness
+1031,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1032,"2024 Election, Polls, Debates & Betting Markets"
+1033,Trump & Trump Family (core)
+1034,Trump & Trump Family (core)
+1035,Other / Low-Signal Clusters (mixed or unclear content)
+1036,"Crypto, Bitcoin & DOGE"
+1037,International Affairs — Australia & NZ
+1038,"Congress, Senate & Lawmakers"
+1039,Natural Disasters & FEMA Response
+1040,Trump & Trump Family (core)
+1041,Other / Low-Signal Clusters (mixed or unclear content)
+1042,Other / Low-Signal Clusters (mixed or unclear content)
+1043,Other / Low-Signal Clusters (mixed or unclear content)
+1044,International Affairs — Canada
+1045,Trump & Trump Family (core)
+1046,Trump & Trump Family (core)
+1047,Other / Low-Signal Clusters (mixed or unclear content)
+1048,Trump & Trump Family (core)
+1049,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1050,Other / Low-Signal Clusters (mixed or unclear content)
+1051,Trump & Trump Family (core)
+1052,International Affairs — Canada
+1053,"Tech, Social Media & Elon Musk"
+1054,"2024 Election, Polls, Debates & Betting Markets"
+1055,International Affairs — Russia & Ukraine Conflict
+1056,Trump & Trump Family (core)
+1057,Other / Low-Signal Clusters (mixed or unclear content)
+1058,Trump & Trump Family (core)
+1059,Other / Low-Signal Clusters (mixed or unclear content)
+1060,"Media, Pundits, Journalists & Commentary"
+1061,Trump & Trump Family (core)
+1062,"2024 Election, Polls, Debates & Betting Markets"
+1063,"Media, Pundits, Journalists & Commentary"
+1064,"Media, Pundits, Journalists & Commentary"
+1065,Other / Low-Signal Clusters (mixed or unclear content)
+1066,"2024 Election, Polls, Debates & Betting Markets"
+1067,Natural Disasters & FEMA Response
+1068,"2024 Election, Polls, Debates & Betting Markets"
+1069,Harris–Walz Campaign
+1070,"Media, Pundits, Journalists & Commentary"
+1071,Trump & Trump Family (core)
+1072,Vance & GOP VP Ticket
+1073,"Congress, Senate & Lawmakers"
+1074,Other / Low-Signal Clusters (mixed or unclear content)
+1075,"International Affairs — Other (Asia, Europe, Global)"
+1076,Other / Low-Signal Clusters (mixed or unclear content)
+1077,International Affairs — Canada
+1078,Trump & Trump Family (core)
+1079,Other / Low-Signal Clusters (mixed or unclear content)
+1080,"2024 Election, Polls, Debates & Betting Markets"
+1081,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1082,Trump & Trump Family (core)
+1083,"Crypto, Bitcoin & DOGE"
+1084,"Congress, Senate & Lawmakers"
+1085,Other / Low-Signal Clusters (mixed or unclear content)
+1086,Trump & Trump Family (core)
+1087,Other / Low-Signal Clusters (mixed or unclear content)
+1088,Other / Low-Signal Clusters (mixed or unclear content)
+1089,Other / Low-Signal Clusters (mixed or unclear content)
+1090,Trump & Trump Family (core)
+1091,Trump & Trump Family (core)
+1092,Trump & Trump Family (core)
+1093,International Affairs — Russia & Ukraine Conflict
+1094,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1095,Other / Low-Signal Clusters (mixed or unclear content)
+1096,Trump & Trump Family (core)
+1097,"2024 Election, Polls, Debates & Betting Markets"
+1098,"Congress, Senate & Lawmakers"
+1099,"Healthcare, Vaccines & Public Health"
+1100,Trump & Trump Family (core)
+1101,Other / Low-Signal Clusters (mixed or unclear content)
+1102,"2024 Election, Polls, Debates & Betting Markets"
+1103,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1104,Harris–Walz Campaign
+1105,Harris–Walz Campaign
+1106,Trump & Trump Family (core)
+1107,"Crypto, Bitcoin & DOGE"
+1108,Trump & Trump Family (core)
+1109,"Media, Pundits, Journalists & Commentary"
+1110,Entertainment & Celebrities
+1111,"2024 Election, Polls, Debates & Betting Markets"
+1112,International Affairs — Russia & Ukraine Conflict
+1113,Other / Low-Signal Clusters (mixed or unclear content)
+1114,Trump & Trump Family (core)
+1115,"Tech, Social Media & Elon Musk"
+1116,"2024 Election, Polls, Debates & Betting Markets"
+1117,"2024 Election, Polls, Debates & Betting Markets"
+1118,Other / Low-Signal Clusters (mixed or unclear content)
+1119,Other / Low-Signal Clusters (mixed or unclear content)
+1120,"2024 Election, Polls, Debates & Betting Markets"
+1121,"Congress, Senate & Lawmakers"
+1122,Trump & Trump Family (core)
+1123,Trump & Trump Family (core)
+1124,"2024 Election, Polls, Debates & Betting Markets"
+1125,"2024 Election, Polls, Debates & Betting Markets"
+1126,Other / Low-Signal Clusters (mixed or unclear content)
+1127,Immigration & Border
+1128,Other / Low-Signal Clusters (mixed or unclear content)
+1129,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1130,"Congress, Senate & Lawmakers"
+1131,Trump & Trump Family (core)
+1132,Trump & Trump Family (core)
+1133,Other / Low-Signal Clusters (mixed or unclear content)
+1134,Other / Low-Signal Clusters (mixed or unclear content)
+1135,"Healthcare, Vaccines & Public Health"
+1136,Trump & Trump Family (core)
+1137,Trump & Trump Family (core)
+1138,Other / Low-Signal Clusters (mixed or unclear content)
+1139,Other / Low-Signal Clusters (mixed or unclear content)
+1140,"Media, Pundits, Journalists & Commentary"
+1141,Biden Administration & Age/Cognitive Fitness
+1142,"2024 Election, Polls, Debates & Betting Markets"
+1143,Harris–Walz Campaign
+1144,Other / Low-Signal Clusters (mixed or unclear content)
+1145,"Middle East: Israel–Gaza, Iran & Region"
+1146,Religion & Faith
+1147,Trump & Trump Family (core)
+1148,"Tech, Social Media & Elon Musk"
+1149,Trump & Trump Family (core)
+1150,Trump & Trump Family (core)
+1151,Trump & Trump Family (core)
+1152,"2024 Election, Polls, Debates & Betting Markets"
+1153,Harris–Walz Campaign
+1154,"Congress, Senate & Lawmakers"
+1155,"Congress, Senate & Lawmakers"
+1156,"2024 Election, Polls, Debates & Betting Markets"
+1157,Trump & Trump Family (core)
+1158,Other / Low-Signal Clusters (mixed or unclear content)
+1159,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+1160,Other / Low-Signal Clusters (mixed or unclear content)
+1161,Other / Low-Signal Clusters (mixed or unclear content)
+1162,"International Affairs — Other (Asia, Europe, Global)"
+1163,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1164,Other / Low-Signal Clusters (mixed or unclear content)
+1165,"2024 Election, Polls, Debates & Betting Markets"
+1166,Other / Low-Signal Clusters (mixed or unclear content)
+1167,Religion & Faith
+1168,Other / Low-Signal Clusters (mixed or unclear content)
+1169,"Tech, Social Media & Elon Musk"
+1170,"Media, Pundits, Journalists & Commentary"
+1171,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1172,"2024 Election, Polls, Debates & Betting Markets"
+1173,Trump & Trump Family (core)
+1174,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+1175,Other / Low-Signal Clusters (mixed or unclear content)
+1176,"2024 Election, Polls, Debates & Betting Markets"
+1177,Other / Low-Signal Clusters (mixed or unclear content)
+1178,Trump & Trump Family (core)
+1179,Sports
+1180,"2024 Election, Polls, Debates & Betting Markets"
+1181,Trump & Trump Family (core)
+1182,Trump & Trump Family (core)
+1183,"2024 Election, Polls, Debates & Betting Markets"
+1184,Harris–Walz Campaign
+1185,"Congress, Senate & Lawmakers"
+1186,Religion & Faith
+1187,Trump & Trump Family (core)
+1188,"Crypto, Bitcoin & DOGE"
+1189,"Congress, Senate & Lawmakers"
+1190,"Race, Identity, DEI & Social Justice"
+1191,Trump & Trump Family (core)
+1192,"2024 Election, Polls, Debates & Betting Markets"
+1193,Trump & Trump Family (core)
+1194,Trump & Trump Family (core)
+1195,"Media, Pundits, Journalists & Commentary"
+1196,Immigration & Border
+1197,Trump & Trump Family (core)
+1198,"Guns, Crime & Violence"
+1199,"2024 Election, Polls, Debates & Betting Markets"
+1200,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1201,"2024 Election, Polls, Debates & Betting Markets"
+1202,"Media, Pundits, Journalists & Commentary"
+1203,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1204,"2024 Election, Polls, Debates & Betting Markets"
+1205,Harris–Walz Campaign
+1206,Other / Low-Signal Clusters (mixed or unclear content)
+1207,Other / Low-Signal Clusters (mixed or unclear content)
+1208,International Affairs — Canada
+1209,Trump & Trump Family (core)
+1210,State & Local Politics
+1211,"Crypto, Bitcoin & DOGE"
+1212,International Affairs — Russia & Ukraine Conflict
+1213,International Affairs — Russia & Ukraine Conflict
+1214,"Media, Pundits, Journalists & Commentary"
+1215,Other / Low-Signal Clusters (mixed or unclear content)
+1216,Harris–Walz Campaign
+1217,Other / Low-Signal Clusters (mixed or unclear content)
+1218,Trump & Trump Family (core)
+1219,Other / Low-Signal Clusters (mixed or unclear content)
+1220,"2024 Election, Polls, Debates & Betting Markets"
+1221,Other / Low-Signal Clusters (mixed or unclear content)
+1222,International Affairs — Russia & Ukraine Conflict
+1223,Religion & Faith
+1224,"2024 Election, Polls, Debates & Betting Markets"
+1225,Trump & Trump Family (core)
+1226,Trump & Trump Family (core)
+1227,"Race, Identity, DEI & Social Justice"
+1228,Trump & Trump Family (core)
+1229,Harris–Walz Campaign
+1230,"2024 Election, Polls, Debates & Betting Markets"
+1231,Other / Low-Signal Clusters (mixed or unclear content)
+1232,"Congress, Senate & Lawmakers"
+1233,Trump & Trump Family (core)
+1234,International Affairs — Australia & NZ
+1235,Trump & Trump Family (core)
+1236,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1237,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1238,"Congress, Senate & Lawmakers"
+1239,"Media, Pundits, Journalists & Commentary"
+1240,Trump & Trump Family (core)
+1241,"Media, Pundits, Journalists & Commentary"
+1242,"2024 Election, Polls, Debates & Betting Markets"
+1243,"Media, Pundits, Journalists & Commentary"
+1244,Trump & Trump Family (core)
+1245,International Affairs — Canada
+1246,Religion & Faith
+1247,Other / Low-Signal Clusters (mixed or unclear content)
+1248,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1249,Other / Low-Signal Clusters (mixed or unclear content)
+1250,Trump & Trump Family (core)
+1251,International Affairs — Russia & Ukraine Conflict
+1252,Other / Low-Signal Clusters (mixed or unclear content)
+1253,"Media, Pundits, Journalists & Commentary"
+1254,"Healthcare, Vaccines & Public Health"
+1255,Trump Assassination Attempt(s)
+1256,Biden Administration & Age/Cognitive Fitness
+1257,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1258,Trump & Trump Family (core)
+1259,Other / Low-Signal Clusters (mixed or unclear content)
+1260,Immigration & Border
+1261,International Affairs — Canada
+1262,"2024 Election, Polls, Debates & Betting Markets"
+1263,"Congress, Senate & Lawmakers"
+1264,"International Affairs — UK, Ireland & Farage/Labour"
+1265,Trump & Trump Family (core)
+1266,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1267,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1268,Trump & Trump Family (core)
+1269,"Middle East: Israel–Gaza, Iran & Region"
+1270,"DOJ, FBI, Courts & Legal (SCOTUS, Immunity, Indictments)"
+1271,"Middle East: Israel–Gaza, Iran & Region"
+1272,Trump & Trump Family (core)
+1273,"2024 Election, Polls, Debates & Betting Markets"
+1274,"Middle East: Israel–Gaza, Iran & Region"
+1275,"Congress, Senate & Lawmakers"
+1276,"2024 Election, Polls, Debates & Betting Markets"
+1277,Religion & Faith
+1278,Trump & Trump Family (core)
+1279,Trump & Trump Family (core)
+1280,"2024 Election, Polls, Debates & Betting Markets"
+1281,"2024 Election, Polls, Debates & Betting Markets"
+1282,"Media, Pundits, Journalists & Commentary"
+1283,"Media, Pundits, Journalists & Commentary"
+1284,"Congress, Senate & Lawmakers"
+1285,"Crypto, Bitcoin & DOGE"
+1286,"Government Officials & Cabinet (RFK, DeSantis, Newsom, etc.)"
+1287,"MAGA Movement, Base & Pro-Trump Influencer Accounts"
+1288,"International Affairs — Other (Asia, Europe, Global)"
+1289,"2024 Election, Polls, Debates & Betting Markets"
+1290,Other / Low-Signal Clusters (mixed or unclear content)
+1291,Trump & Trump Family (core)
+1292,Trump & Trump Family (core)
+1293,"2024 Election, Polls, Debates & Betting Markets"
+1294,Other / Low-Signal Clusters (mixed or unclear content)
